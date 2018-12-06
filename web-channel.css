@@ -15,6 +15,10 @@
   .-botpress-channel-web__style__bubble___eNt_J 
   .botpress__messages-container{
       background-color: #4286f4;
+      border-top-left-radius: 15px;
+      border-bottom-left-radius: 0px;
+      border-top-right-radius: 0px;
+      border-bottom-right-radius: 15px;
   }
    .botpress__side-conversation,
   .botpress__side-header,
@@ -39,10 +43,4 @@
       border-bottom-right-radius: 15px;
   }
   
-.-botpress-channel-web__style__bubble___eNt_J botpress__messages-container {
-      border-top-left-radius: 15px;
-      border-bottom-left-radius: 0px;
-      border-top-right-radius: 0px;
-      border-bottom-right-radius: 15px;
-      background-color: rgb(12, 109, 236);
-}
+
