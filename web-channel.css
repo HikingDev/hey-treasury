@@ -31,3 +31,11 @@
    .botpress__side-external .botpress__side-internal .botpress__convos-list .botpress__convo-item:hover {
     background-color: rgba(0, 0, 0, .35);
   }
+
+.-botpress-channel-web__style__message___2Z-Wf .-botpress-channel-web__style__message-container___1cLJq .-botpress-channel-web__style__bubble___eNt_J {
+      border-top-left-radius: 15px;
+      border-bottom-left-radius: 0px;
+      border-top-right-radius: 0px;
+      border-bottom-right-radius: 15px;
+  }
+  
